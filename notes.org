@@ -1,0 +1,5 @@
+babel public/src/app.js --out-file=public/app.js --presets=react,env
+live-server
+
+//
+- React components (classes) have to define render method.
